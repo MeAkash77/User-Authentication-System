@@ -9,4 +9,4 @@ This project provides Authentication services to the user by providing Signup/Re
 I am hereby attaching a document to help you guys understand the functioning & to play around with it:
 
 
-[Auth_System.docx](https://github.com/harshit977/User-Authentication-System-with-NodeJs/files/14158028/GAWDS_TASK_Auth_System.docx)
+[Auth_System.docx](https://docs.google.com/document/d/17V2HtqCwHkvdj6movhIHHc9kRaWeMlaE/edit?usp=sharing&ouid=111642766974102092423&rtpof=true&sd=true)
